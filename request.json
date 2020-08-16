@@ -1,0 +1,14 @@
+{
+  "string_field": "string",
+  "number_field": 9,
+  "float_field": 1.3,
+  "dict_field": {
+    "nested": true,
+    "value": "test"
+  },
+  "url_field": "https://github.com/kdpisda/django-validate-requests",
+  "email_field": "example@example.com",
+  "date_field": "2020-07-15",
+  "time_field": "12:34:56.000000",
+  "list_field": [1, 2, 3]
+}
